@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Preface](./Preface.md)
-1. You're Not Responsible for the Outcome
+1. [You're Not Responsible for the Outcome](./Not_Responsible.md)
 2. If They Weren't Ambivalent They Woudln't Need You...
 3. ...And Sometimes They Don't
 4. Care Deeply...Hold Lightly
