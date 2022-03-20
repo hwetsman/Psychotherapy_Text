@@ -1,4 +1,7 @@
-IF THEY WEREN’T AMBIVALENT THEY WOULDN’T NEED YOU...
+
+<h2><center>IF THEY WEREN’T AMBIVALENT THEY WOULDN’T NEED YOU...</h2></center>
+
+
 It’s a common frustration that once patients enter treatment and a treatment
 contract has been negotiated, that they seem to have difficulty holding to their end of the bargain. It’s not uncommon for a new counselor (or even an old one for that matter) to come to his supervisor with the complaint, “He doesn’t seem to want to get better.”
 
