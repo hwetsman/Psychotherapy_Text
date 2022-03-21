@@ -1,5 +1,5 @@
-CHAPTER THREE
-...AND SOMETIMES THEY DON’T
+<h2><center>CHAPTER THREE</h2></center>
+<h2><center>...AND SOMETIMES THEY DON’T</h2></center>
 
 If it wasn’t for the patient’s ambivalence we’d be out of a job. Well, we like
 this job or we wouldn’t want to do it. We like being needed and helping others; people who don’t, generally don’t learn to be therapists.
