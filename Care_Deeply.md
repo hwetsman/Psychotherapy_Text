@@ -1,5 +1,5 @@
-CHAPTER FOUR
-CARE DEEPLY...HOLD LIGHTLY
+<h2><center>CHAPTER FOUR</h2></center>
+<h2><center>CARE DEEPLY...HOLD LIGHTLY</h2></center>
 
 This is a concept from Zen and I’m sure the Zen masters of old will not mind my
 paraphrasing. While they care deeply for the words they’ve written they hold them lightly, allowing me to change them.
