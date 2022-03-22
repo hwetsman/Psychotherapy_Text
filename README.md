@@ -6,7 +6,7 @@
 1. [You're Not Responsible for the Outcome](./Not_Responsible.md)
 2. [If They Weren't Ambivalent They Woudln't Need You...](./Ambivalent.md)
 3. [...And Sometimes They Don't](./Sometimes_They_Dont.md)
-4. Care Deeply...Hold Lightly
+4. [Care Deeply...Hold Lightly](./Care_Deeply.md)
 5. Everyone's as Old as They Need to Be
 6. You're Just Doing the Best You Can (And So Are They)
 7. You're the One Getting Paid
