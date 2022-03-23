@@ -1,5 +1,5 @@
-CHAPTER FIVE
-EVERYONE’S AS OLD AS THEY NEED TO BE
+<h2><center>CHAPTER FIVE</h2></center>
+<h2><center>EVERYONE’S AS OLD AS THEY NEED TO BE</h2></center>
 
 We all get angry at the patient who isn’t “acting his age.” We label as
 “immature” behaviors common to early levels of development. We describe a hierarchical progress in development from earlier to later stages. This hierarchical structure is very helpful to us in describing our ideas about in what way the patient is ill and about how he got that way. I other words, it’s helpful in making a diagnosis.
