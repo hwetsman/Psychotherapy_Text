@@ -1,4 +1,4 @@
-<h2><center>CHAPTER SEVEN</h2></center>
+<center><h2>CHAPTER SEVEN</center></h2>
  <h2><center>YOU’RE THE ONE GETTING PAID</h2></center>
 
 We’ve looked at how to do therapy and how not to, what your patient needs and
