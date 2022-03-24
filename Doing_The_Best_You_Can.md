@@ -1,5 +1,5 @@
-CHAPTER SIX
-YOU’RE JUST DOING THE BEST YOU CAN (AND SO ARE THEY)
+<h2><center>CHAPTER SIX</h2></center>
+<h2><center>YOU’RE JUST DOING THE BEST YOU CAN (AND SO ARE THEY)</h2></center>
 
 A long time ago in China, Lao-Tze wrote:
 Something in Chinese I can’t make heads or tails of...
