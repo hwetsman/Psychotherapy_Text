@@ -1,4 +1,5 @@
-CHAPTER SEVEN YOU’RE THE ONE GETTING PAID
+<h2><center>CHAPTER SEVEN</h2></center>
+ <h2><center>YOU’RE THE ONE GETTING PAID</h2></center>
 
 We’ve looked at how to do therapy and how not to, what your patient needs and
 what he doesn’t, but we haven’t looked at why we do therapy. What’s the point of this work? Again we have to fall back on the teachings of many schools of therapy. Some focus on cognitive processes while others focus on emotions. Some are experiential while others tend to the didactic. What they all have in common is that they all seek to increase the patient’s freedom.
