@@ -2,13 +2,25 @@
  <h2><center>YOU’RE THE ONE GETTING PAID</h2></center>
 
 We’ve looked at how to do therapy and how not to, what your patient needs and
-what he doesn’t, but we haven’t looked at why we do therapy. What’s the point of this work? Again we have to fall back on the teachings of many schools of therapy. Some focus on cognitive processes while others focus on emotions. Some are experiential while others tend to the didactic. What they all have in common is that they all seek to increase the patient’s freedom.
+what he doesn’t. But we haven’t looked at why we do therapy. What’s the point of
+this work? Again we have to fall back on the teachings of many schools of
+therapy. Some focus on cognitive processes while others focus on emotions. Some
+are experiential while others tend to the didactic. What they all have in common
+is that they all seek to increase the patient’s freedom.
 
 This freedom can come in many forms, but basically it is the freedom from
-extraneous expectations and freedom to accept whatever is found in the therapy. So, the purpose of therapy is to help the patient change what is not their true self and to accept the true self they find. Of course, if this is the goal of psychotherapy, we would expect that it is a long standing goal and might even predate therapy as a profession. I think it does:
+extraneous expectations and freedom to accept whatever is found in the therapy.
+So, the purpose of therapy is to help the patient change what is not their true
+self and to accept the true self they find. Of course, if this is the goal of
+psychotherapy, we would expect that it is a long standing goal and might even
+predate therapy as a profession. I think it does:
 
-“God grant me the serenity to accept the things I can not change, The courage to change the things I can,
-And the wisdom to know the difference.”
+>And they said: At the head of all understanding – is distinguishing between what is and what cannot be, and the consoling of what is not in our power to change. - Solomon ibn Gabirol 11th Century
+
+More recently, and from our own cutlure, the same idea is put like this:
+
+>God grant me the serenity to accept the things I can not change, The courage to
+change the things I can, and the wisdom to know the difference.
 
 Serenity, courage, wisdom: that’s your job; that’s why you’re getting paid. And
 it’s important to remember that you are the one getting paid.
