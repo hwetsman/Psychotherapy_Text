@@ -9,7 +9,7 @@
 4. [Care Deeply...Hold Lightly](./Care_Deeply.md)
 5. [Everyone's as Old as They Need to Be](./Old_as_they_need.md)
 6. [You're Just Doing the Best You Can -And So Are They](./Doing_The_Best_You_Can.md)
-7. You're the One Getting Paid
+7. [You're the One Getting Paid](./You_Get_Paid.md)
 8. Everybody's Treatable...
 9. ... Except, Nobody's Treatable
 - Appendix
