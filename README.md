@@ -12,4 +12,4 @@
 7. [You're the One Getting Paid](./You_Get_Paid.md)
 8. [Everybody's Treatable...](./Everbody_is_Treatable.md)
 9. [... Except, Nobody's Treatable](./Except_Nobody_is.md)
-- Appendix
+- [Appendix](./Appendix.md)
