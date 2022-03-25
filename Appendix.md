@@ -1,4 +1,5 @@
-APPENDIX TECHNIQUES
+<h2><center>APPENDIX</h2></center>
+<h2><center>TECHNIQUES</h2></center>
 
 Meditating –
 
