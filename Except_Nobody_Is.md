@@ -1,4 +1,5 @@
-CHAPTER NINE ...EXCEPT, NOBODY’S TREATABLE
+<center><h2>CHAPTER NINE</h2></center>
+<center><h2>...EXCEPT, NOBODY’S TREATABLE</h2></center>
 
 It’s a literary conceit to name a chapter exactly the opposite of the one before.
 It sows confusion and makes the reader want to read further for an explanation. If that is the case with you, I want to let you know right away that it’s just a trick and you don’t need to read any further. If, however, you want to read more please continue.
