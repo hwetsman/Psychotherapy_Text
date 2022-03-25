@@ -1,4 +1,5 @@
-CHAPTER EIGHT EVERYBODY’S TREATABLE...
+<center><h2>CHAPTER EIGHT</center></h2>
+<center><h2>EVERYBODY’S TREATABLE...</center></h2>
 
 In our modern paradigm diagnosis dictates treatment. The American Psychiatric
 Association has developed the Diagnostic and Statistical Manual Revision IV (DSM-IV) which can best be described as a sophisticated non-theoretical diagnostic nomenclature that can be tested against various therapies to find which is best for a given disorder. Boy, that’s a mouthful. In such an approach therapies and diagnoses can be standardized so that healing can be reduced to finding the correct therapy for the patient’s diagnosis. Such a system is helpful in distributing interventions across a spectrum of professions, each able and specialized to do its part optimally. For example, instead of a suffer with a problem, we can reduce the patient to a series of diagnoses, some of which might require the services of a psychiatrist for medical treatment, a psychologist for therapy, and perhaps a social worker for therapy or community services. Such a system promotes a team approach which holds the great promise of universal mental health care for all diagnoses. The problem is: diagnoses don’t come for treatment, people do.
