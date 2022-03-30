@@ -1,5 +1,9 @@
 # What I Wish I Knew When I Started
 
+This page is really all you need. You can read the book right here on github by
+clicking on the chapters below in the Table of Contents. If you'd like to
+download or clone the book, feel free.
+
 ## Table of Contents
 
 - [Preface](./Preface.md)
