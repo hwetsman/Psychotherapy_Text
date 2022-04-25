@@ -15,5 +15,5 @@ download or clone the book, feel free.
 6. [You're Just Doing the Best You Can -And So Are They](./Doing_The_Best_You_Can.md)
 7. [You're the One Getting Paid](./You_Get_Paid.md)
 8. [Everybody's Treatable...](./Everbody_is_Treatable.md)
-9. [... Except, Nobody's Treatable](./Except_Nobody_is.md)
+9. [... Except, Nobody's Treatable](./Except_Nobody_Is.md)
 - [Appendix](./Appendix.md)
